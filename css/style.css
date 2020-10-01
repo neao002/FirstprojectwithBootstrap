@@ -1,0 +1,39 @@
+
+body {
+    background: #333;
+}
+
+.navbar {
+
+border-bottom: lightblue 3px solid;
+
+}
+
+.fa-check {
+
+    color: white;
+}
+
+#home-section {
+
+    background-image: url(/img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+#home-section .dark-overlay {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+min-height: 700px;
+background: rgba(0, 0, 0, 0.7);   
+}
+
+
+#home-section .home-inner {
+
+    padding-top: 150px;
+}
