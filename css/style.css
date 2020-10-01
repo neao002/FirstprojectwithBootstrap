@@ -37,3 +37,27 @@ background: rgba(0, 0, 0, 0.7);
 
     padding-top: 150px;
 }
+
+#home-section .card-form {
+    opacity: 0.8;
+}
+
+#home-section .fas,
+#create-section .fas {
+  color: #008ed6;
+  background: #fff;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#explore-section .fas, #share-section .fas {
+
+   
+  color: white;
+  background: #333;
+  padding: 5px;
+  border-radius: 5px;
+
+
+
+}
